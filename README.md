@@ -30,7 +30,7 @@ Onde:
 
 A análise de correlação de Pearson revelou os "motores" do desempenho acadêmico. Como demonstrado no gráfico abaixo, a **Presença Escolar (0.58)** e as **Horas de Estudo (0.45)** são os fatores com maior poder preditivo.
 
-![Mapa de Correlação de Pearson](correlation_plot.png)
+![Mapa de Correlação de Pearson](Code_Generated_Image.png)
 
 ### Dashboard Interativo
 O relatório foi desenhado em um padrão *Teal & Orange* para facilitar a leitura de métricas de sucesso vs. risco:
